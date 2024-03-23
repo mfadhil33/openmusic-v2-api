@@ -1,4 +1,4 @@
-# OpenMusic-v1-api
+# OpenMusic-v2-api
 
 Nodejs->HapiJS->postgresql
 
@@ -7,7 +7,7 @@ Nodejs->HapiJS->postgresql
 **1. Clone repositori ini ke dalam direktori lokal Anda:**
 
 ```bash
-git clone https://github.com/mfadhil33/openmusic-v1-api.git
+git clone https://github.com/mfadhil33/openmusic-v2-api.git
 
 ```
 
